@@ -39,6 +39,7 @@ Sharing updates on:
 
 - <a href="https://twitter.com/BarikAritra">Twitter </a>
 
+<!---
 ## GitHub Statistics 🤖:
 
 [![Aritra's GitHub stats](https://github-readme-stats.vercel.app/api?username=aritrabarik&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
