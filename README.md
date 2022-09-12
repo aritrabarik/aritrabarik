@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 I'm a passionate self-taught Frontend Developer from India.
 
 - 👨🏼‍🎓 I have completed my B.Tech CSE from Techno India University
-- 🔭 I’m currently working on imporving my JavaScript and CSS skills!
+- 🔭 I’m currently working on improving my JavaScript and CSS skills!
 - 🌱 I’m currently learning React!
 - 😄 Pronouns: he/him
 
