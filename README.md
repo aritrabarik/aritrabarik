@@ -16,28 +16,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hey there, I'm Aritra! 👋🏼👨🏼‍💻
+# Hey there, I'm Aritra! 👋🏽👨‍💻
 
-I'm a passionate self-taught Web Developer from India.
+I'm a passionate self-taught Frontend Developer from India.
 
-- 👨🏼‍🎓 I am pursuing B.Tech CSE from Techno India University
-- 🚀 I’m currently learning/working to improve my JavaScript skills to pick up React ASAP!
+- 👨🏼‍🎓 I have completed my B.Tech CSE from Techno India University
+- 🔭 I’m currently working on imporving my JavaScript and CSS skills!
+- 🌱 I’m currently learning React!
+- 😄 Pronouns: he/him
 
 ## Skills 🦾:
 
-- ☕ Java
 - 🐍 Python
 - 💻 HTML
 - 🎨 CSS
 - 🔥 JavaScript
+- ⚛️ React (in progress :3)
 
 ## Find me around the web 🌎:
 
-Sharing updates on:
 
-- <a href="https://www.linkedin.com/in/aritrabarik/">LinkedIn <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"></a>
+- <a href="https://www.linkedin.com/in/aritrabarik/">LinkedIn</a>
 
-- <a href="https://twitter.com/BarikAritra">Twitter </a>
+- <a href="https://twitter.com/BarikAritra">Twitter</a>
 
 <!---
 ## GitHub Statistics 🤖:
